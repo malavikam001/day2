@@ -1,9 +1,12 @@
 .one{
     margin: 17px;
-    background-color: beige;
+background-color: beige;
     text-align: center;
     
 }
 .two{
     text-align: center;
+}
+.three{
+    background-color: beige;
 }
